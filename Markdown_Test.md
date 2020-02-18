@@ -6,6 +6,6 @@ lorem ipsun dolet...
 ![](Data Science Lifecycle.png)
 
 
--liste 1
+- liste 1
 - liste 2
--liste 3
+- liste 3

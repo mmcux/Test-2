@@ -3,7 +3,11 @@
 
 lorem ipsun dolet...
 
-![](Data Science Lifecycle.png)
+![](
+
+
+
+
 
 
 - liste 1

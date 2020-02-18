@@ -3,7 +3,7 @@
 
 lorem ipsun dolet...
 
-![Bild1](Data Science Lifecycle.png)
+![Bild1](Data_Science_Lifecycle.png)
 
 
 
